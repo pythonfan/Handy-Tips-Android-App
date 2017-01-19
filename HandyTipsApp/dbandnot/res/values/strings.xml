@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Handy Tips</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string-array name="category_array">
+        <item>Health</item>
+        <item>Beauty</item>
+        <item>Proverbs</item>
+        <item>Inspirational Quotes</item>
+        <item>Smartphone Tips</item>
+        
+    </string-array>
+   
+
+</resources>
